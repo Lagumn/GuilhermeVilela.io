@@ -1,4 +1,4 @@
-# GuilhermeVilelaPortfolio
+# Guilherme Vilela
 ### Education
 Control and Automation Engineer Student, Federal University of Technology - Paraná (UTFPR)
 ### Work Experience
